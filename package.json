@@ -41,7 +41,7 @@
     "react-navigation-stack": "^2.4.0",
     "react-navigation-tabs": "^2.8.13",
     "react-router-dom": "^5.2.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "babel-preset-expo": "~8.1.0",
