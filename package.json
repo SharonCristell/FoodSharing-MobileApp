@@ -24,7 +24,7 @@
     "expo-sqlite": "~8.1.0",
     "firebase": "7.9.0",
     "geofirestore": "^3.4.3",
-    "moment": "^2.25.1",
+    "moment": "^2.29.2",
     "ngeohash": "^0.6.3",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
